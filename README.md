@@ -7,7 +7,7 @@
 - Play with ROS! Tutorials and examples of ROS and Python
 - Learn to handle camera and robot using ROS
 
-<img src="./imgs/pingpong_robot.png" height="200">
+<img src="./imgs/pingpong_robot.png" height="500">
 
 
 ## Table of Contents

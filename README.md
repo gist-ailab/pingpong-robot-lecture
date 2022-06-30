@@ -16,14 +16,17 @@
 2. [Camera](./src/camera/README.md)
 - [rgbd capture](./src/camera/rgbd_capturer.py)  
 <img src="./imgs/rgbd_capture.png" height="100">
+
 - [color detection](./src/camera/color_detector.py)   
 <img src="./imgs/orange_detection.png" height="100">
+
 - [color tracker](./src/opencv_tracker/orange_tracker.py)   
 <img src="./imgs/orange_tracker.png" height="100">
 
 3. [Deep Learning](./src/deep_learning/README.md)
 - [image classification](./src/camera/img_classifier.py)  
 <img src="./imgs/image_classification.png" height="100">
+
 - [object detection](./src/deep_learning/object_detector.py)  
 <img src="./imgs/object_detection.png" height="100">
 
